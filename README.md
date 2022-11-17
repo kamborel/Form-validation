@@ -1,2 +1,2 @@
 # Form-validation
-Exemple of a Form validation 
+Example of a Form validation 
